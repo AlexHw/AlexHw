@@ -1,4 +1,4 @@
-## Hi👋, I'm @alexhw
+## Hi👋 I'm @AlexHw
 - 👀 I’m interested in computer engineering topics, mostly regarding cybersecurity and artificial intelligence
 - 🌱 I’m currently learning about advanced cybersecurity and deep learning solutions
 
